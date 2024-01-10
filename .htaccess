@@ -1,5 +1,5 @@
 # Enabling the mod_rewrite module on the Apache server
-RewriteEngine On
+# RewriteEngine On
 
 # Error Document
 ErrorDocument 404 /404.html
